@@ -74,13 +74,13 @@ main section {
     color: #ffffff;
 }
 
+main section img{
+    max-height: 200px;
+}
+
 main section h2 {
     margin-bottom: 20px;
     font-size: 36px;
-}
-
-main section img{
-    max-height: 200px;
 }
 
 .float-left {
