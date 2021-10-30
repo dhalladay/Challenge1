@@ -22,8 +22,8 @@ The purpose of this refactor was to increase compliance with current accessibili
 
 ## Website
 
-- Original code: https://github.com/coding-boot-camp/urban-octo-telegram
-- Refactored code: 
+- Original code: https://github.com/coding-boot-camp/urban-octo-telegram/
+- Refactored code: https://dhalladay.github.io/Horiseon-accessibility-refactor/
 
 ## Usage
 
