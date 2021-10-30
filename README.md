@@ -4,7 +4,9 @@
 
 Refactor of Horiseon Website to increase its accessibility.
 
-Accessibility is an increasingly important aspect of web development as many internet users require assistance -- such as screen readers -- to help read and navigate a web page efficiently. The purpose of this refactor was to increase our compliance with current accessibility standards and to update and simplify CSS for readability and efficiency for the future.
+Accessibility is an increasingly important aspect of web development as many internet users require assistance -- such as screen readers -- to help read and navigate a web page efficiently. It also increases search engine positioning. 
+
+The purpose of this refactor was to increase compliance with current accessibility standards and to update and simplify CSS for readability and efficiency for the future. Change made include:
 
 1. Replaced non-semantic elements with semantic elements in HTML5.
 2. Simplified CSS by removing duplicate coding.
