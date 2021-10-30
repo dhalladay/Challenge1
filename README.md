@@ -1,8 +1,10 @@
 # Code Refactor for Accessibility
 
-## Purpose
-
 Refactor of Horiseon Website to increase its accessibility.
+
+![Horiseon Screenshot](./assets/images/Horiseon%20Screenshot.png?raw=true)
+
+## Purpose
 
 Accessibility is an increasingly important aspect of web development as many internet users require assistance -- such as screen readers -- to help read and navigate a web page efficiently. It also increases search engine positioning. 
 
